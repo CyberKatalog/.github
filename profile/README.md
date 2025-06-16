@@ -8,13 +8,13 @@
 
 ## 🚀 Purpose & Vision
 
-In an era where digital threats escalate daily, **CyberKatalog** bridges the gap between organisations needing robust protection and trusted cybersecurity specialists.
+In an era where digital threats escalate daily, **Cyber Katalog** bridges the gap between organisations needing robust protection and trusted cybersecurity specialists.
 
 - **Connect** businesses with vetted experts across infrastructure security, cloud protection, GRC, SOC and more.
 - **Promote** transparency and trust through our strict verification programme.
 - **Support** the growth of Poland’s cybersecurity ecosystem by showcasing local talent.
 
-## 🧰 Why CyberKatalog
+## 🧰 Why Cyber Katalog
 
 - **Comprehensive Directory** – Curated list of Polish and international cybersecurity firms.
 - **Verified Listings** – Every company passes a multi‑step due‑diligence process.
@@ -22,7 +22,7 @@ In an era where digital threats escalate daily, **CyberKatalog** bridges the gap
 
 ## 🔗 Quick Links
 
-- [Explore CyberKatalog](https://cyberkatalog.pl)
+- [Explore Cyber Katalog](https://cyberkatalog.pl)
 - [Glossary of Terms](https://cyberkatalog.pl/slownik)
 - [Cybersecurity Tools](https://cyberkatalog.pl/narzedzia)
 - [Pricing Plans](https://cyberkatalog.pl/cennik)
@@ -33,4 +33,4 @@ In an era where digital threats escalate daily, **CyberKatalog** bridges the gap
 
 ---
 
-_[CyberKatalog](https://cyberkatalog.pl) is a project by [Silesian Solutions](https://silesiansolutions.com), dedicated to advancing digital security and innovation in Poland._
+_[Cyber Katalog](https://cyberkatalog.pl) is a project by [Silesian Solutions](https://silesiansolutions.com), dedicated to advancing digital security and innovation in Poland._
