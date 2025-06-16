@@ -1,4 +1,4 @@
-# 🛡️ CyberKatalog
+# 🛡️ Cyber Katalog
 
 **Poland’s Premier Directory of Verified Cybersecurity Providers**
 
