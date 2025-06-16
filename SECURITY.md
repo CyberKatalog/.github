@@ -1,6 +1,6 @@
 # Security Policy
 
-**[CyberKatalog](https://cyberkatalog.pl)** is a project maintained by **[Silesian Solutions](https://silesiansolutions.com)**, and the security of our code, infrastructure and community is our shared priority.
+**[Cyber Katalog](https://cyberkatalog.pl)** is a project maintained by **[Silesian Solutions](https://silesiansolutions.com)**, and the security of our code, infrastructure and community is our shared priority.
 
 ## Reporting a Vulnerability
 
@@ -10,4 +10,4 @@ We strive to acknowledge every report promptly, carry out the initial triage wit
 
 ---
 
-_[CyberKatalog](https://cyberkatalog.pl) is a project by [Silesian Solutions](https://silesiansolutions.com), dedicated to advancing digital security and innovation in Poland._
+_[Cyber Katalog](https://cyberkatalog.pl) is a project by [Silesian Solutions](https://silesiansolutions.com), dedicated to advancing digital security and innovation in Poland._
