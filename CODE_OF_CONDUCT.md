@@ -12,7 +12,7 @@ We want Cyber Katalog to be a welcoming, harassment-free space for everyone who 
 
 ## Enforcement
 
-Report unacceptable behaviour to [biuro@silesiansolutions.com](mailto:biuro@silesiansolutions.com). Maintainers may remove content or remove contributors who violate this code.
+Report unacceptable behaviour to [biuro@cyberkatalog.pl](mailto:biuro@cyberkatalog.pl). Maintainers may remove content or remove contributors who violate this code.
 
 ---
 
